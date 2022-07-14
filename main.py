@@ -19,7 +19,7 @@ while sides <= 5:
 
 timmy.circle(150)
 timmy.setheading(45)
-timmy.circle(100)
+
 timmy.setheading(90)
 timmy.circle(70)
 screen.exitonclick()
